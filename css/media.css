@@ -1,0 +1,207 @@
+@media all and (max-width: 1366px) {
+  html {
+    font-size: 45.5%;
+  }
+  div.header .wrapper .block-left .text {
+    width: 75%;
+  }
+}
+@media all and (max-width: 1024px) {
+  html {
+    font-size: 41.5%;
+  }
+  div.header .wrapper .block-left .text {
+    width: 82%;
+  }
+  a.no_arrow {
+    width: 45%;
+  }
+  a.arrow {
+    width: 35%;
+  }
+  div.header .wrapper .block-left {
+    width: 45%;
+  }
+}
+@media all and (max-width: 960px) {
+  .header .arroww {
+    display: none !important;
+  }
+  div.block-3 .wrapper .video .left {
+    width: 100%;
+  }
+  div.block-3 .wrapper .video .left img {
+    width: 100%;
+  }
+  div.block-3 .wrapper .video .right {
+    width: 100%;
+  }
+}
+@media all and (max-width: 768px) {
+  html {
+    font-size: 37.5%;
+  }
+  a.no_arrow {
+    width: 55%;
+  }
+  a.arrow {
+    width: 40%;
+  }
+  div.header .wrapper .block-left {
+    width: 50%;
+  }
+  div.header .wrapper .block-left .text {
+    width: 100%;
+  }
+  div.header .wrapper .block-left .text a.arrow {
+    width: 95%;
+  }
+}
+@media all and (max-width: 480px) {
+  h1 {
+    font-size: 4rem;
+  }
+  h3 {
+    font-size: 2.5rem;
+  }
+  .wrapper {
+    padding: 20px 0;
+  }
+  a.arrow {
+    width: 75%;
+  }
+  a.no_arrow {
+    width: 70%;
+  }
+  div.header .wrapper .block-left {
+    width: 75%;
+  }
+  div.header .wrapper .block-left .logo img {
+    width: 50%;
+  }
+  div.header .wrapper .block-left .text {
+    margin-top: 100px;
+  }
+  div.header .wrapper .block-left .text h1 {
+    margin: 20px 0;
+  }
+  div.header .wrapper .block-left .text a.arrow {
+    width: 100%;
+    margin: 20px 0;
+  }
+  div.header .wrapper .block-left .note h4 {
+    font-size: 2rem;
+  }
+  div.header .wrapper .block-left .note p {
+    font-size: 1.7rem;
+  }
+  div.block-2 {
+    background: #f4f4f4;
+  }
+  div.block-2 .wrapper h3.one {
+    margin-top: 20px;
+  }
+  div.block-2 .wrapper h3.two {
+    margin-top: 20px;
+  }
+  div.block-2 .wrapper .icons {
+    margin-top: 20px;
+  }
+  div.block-2 .wrapper a.no_arrow {
+    margin-top: 20px;
+  }
+  div.block-2 .wrapper a.no_arrow .name {
+    padding: 25px 0;
+  }
+  div.block-3 .wrapper .video .left {
+    width: 100%;
+  }
+  div.block-3 .wrapper .video .left img {
+    width: 100%;
+  }
+  div.block-3 .wrapper .video .right {
+    width: 100%;
+  }
+  div.block-3 .wrapper .video .right p.video {
+    font-size: 2rem;
+  }
+  div.block-3 .wrapper .video .right ul {
+    font-size: 2.5rem;
+  }
+  div.block-3 .wrapper .video .right ul li {
+    font-size: 1.8rem;
+  }
+  div.block-3 .wrapper .icons .icon {
+    width: 100%;
+  }
+  div.block-4 {
+    background: #000000;
+  }
+  div.block-4 .wrapper {
+    padding-bottom: 0;
+  }
+  div.block-4 .wrapper .container-right {
+    width: 100%;
+  }
+  div.block-4 .wrapper .container-right h2 {
+    text-align: center;
+  }
+  div.block-4 .wrapper .container-right hr {
+    float: none;
+  }
+  div.block-4 .wrapper .container-right ul p {
+    text-align: center;
+    font-size: 3rem;
+  }
+  div.block-4 .wrapper .container-right ul li {
+    font-size: 2rem;
+  }
+  div.block-4 .wrapper .container-left {
+    display: block;
+    width: 100%;
+  }
+  div.block-4 .wrapper .container-left img {
+    width: 100%;
+  }
+  div.block-5 {
+    display: none;
+  }
+  div.block-5-mobile {
+    display: block !important;
+  }
+  div.block-5-mobile .wrapper a.arrow .name {
+    padding: 15px 35px 15px 0;
+  }
+}
+@media all and (max-width: 320px) {
+  html {
+    font-size: 28.5%;
+  }
+  div.header .wrapper .block-left .logo img {
+    width: 40%;
+  }
+  div.header .wrapper .block-left .text h1 {
+    margin: 10px 30px 10px 0;
+  }
+  div.header .wrapper .block-left .text a.arrow .name {
+    padding: 20px 35px 20px 0;
+  }
+  div.header .wrapper .block-left .note {
+    padding: 10px 10px;
+  }
+  div.block-2 .wrapper a.no_arrow .name {
+    padding: 15px 0;
+  }
+  div.block-3 .wrapper a.arrow .name {
+    padding: 20px 35px 20px 0;
+  }
+  div.block-5-mobile .wrapper a.arrow .name {
+    padding: 5px 35px 5px 0;
+  }
+  div.header .wrapper .block-left .text a.arrow {
+    margin: 10px 0;
+  }
+  .footer {
+    font-size: 1.8rem;
+  }
+}
